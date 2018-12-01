@@ -1,0 +1,11 @@
+{
+    "owner": {
+        "priv": "<get this from ganache, address index=0>",
+        "address": "<get this from ganache, address index=0>"
+    },
+    "other_sender": {
+        "priv": "<get this from ganache, address index=1>",
+        "address": "<get this from ganache, address index=2>"
+    },
+    "contract_address": "<get this from ganache after first deployment>"
+}
